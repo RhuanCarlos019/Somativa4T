@@ -82,6 +82,3 @@ Para instalar e executar a aplicação, siga os passos abaixo:
 
 ### 5. Considerações
 O Sistema de Inscrição de Atletas foi projetado para ser intuitivo e funcional, permitindo que tanto atletas quanto administradores gerenciem as inscrições de forma eficiente. O uso de Java e PostgreSQL proporciona uma base sólida para o desenvolvimento de aplicações de gestão, enquanto a interface gráfica com Swing garante uma boa experiência ao usuário.
-
-Esta documentação tem como objetivo fornecer uma visão clara sobre o funcionamento e uso do sistema, sendo uma referência para usuários e desenvolvedores. Qualquer dúvida ou sugestão de melhoria é bem-vinda.
-
